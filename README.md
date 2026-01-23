@@ -15,7 +15,7 @@ Senior Backend and Cloud Engineer
 
 ---
 
-<!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohamM97&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)][def] -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohamM97&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&hide=contribs&rank_icon=github)][def]
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohamM97&theme=tokyonight&layout=compact&hide=roff)][def]
 
