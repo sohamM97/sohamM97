@@ -15,6 +15,5 @@ Senior Backend and Cloud Engineer
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohamM97&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&hide=contribs&rank_icon=github)][def] &nbsp;&nbsp;&nbsp;&nbsp; [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohamM97&theme=tokyonight&layout=compact&hide=roff)][def]
-
-[def]: https://github.com/anuraghazra/github-readme-stats
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sohamM97&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&hide=contribs&rank_icon=github&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sohamM97&theme=tokyonight&layout=compact&hide=roff&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
